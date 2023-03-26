@@ -1,1 +1,1 @@
-### In these projects connected with A/B-testing and hypotheses I improved such skills as Python (pandas, scipy, matplotlib, seaborn, plotly), visualization, working with product metrics (LTV, Churn rate, Retention rate, CAC) and checking statistical hypotheses.
+### In these projects connected with A/B-testing and hypotheses I improved such skills as Python (pandas, scipy, matplotlib, seaborn, plotly), visualization, working with product metrics (LTV, Churn rate, Retention rate, CAC) and checking statistical hypotheses
