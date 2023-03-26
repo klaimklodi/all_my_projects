@@ -5,7 +5,6 @@
 конверсии по группам, а затем посчитал статистическую значимость различий конверсий
 и средних чеков по сырым и очищенным данным. 
 ### Краткий вывод
-На основании анализа мной было
-принято решение о нецелесообразности дальнейшего проведения теста.
+На основании анализа мной было принято решение о прекращении проведения теста из-за очевидного превосходства ключевых показателей в группе B.
 
 ### In these projects connected with A/B-testing and hypotheses I improved such skills as Python (pandas, scipy, matplotlib, seaborn, plotly), visualization, working with product metrics (LTV, Churn rate, Retention rate, CAC) and checking statistical hypotheses
