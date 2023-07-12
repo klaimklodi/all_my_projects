@@ -17,4 +17,4 @@
 - **Атакующие действия**
     - По действиям, которые привели к удару по воротам, первое место занимает *Jack Grealish*
 - **Сыгранное время**
-    - Смотреть дашборд (ссылка: https://datalens.yandex.ru/navigation/g84tyvzdkhvq5-ucl-2022-2023)
+    - Смотреть дашборд (ссылка: https://datalens.yandex.ru/kc8tiic5e5dq9-ucl-2022-2023-sygrannoe-vremya)
