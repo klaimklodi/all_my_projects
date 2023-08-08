@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1TI-fYLfuZvgXl3qd6V-K1q1GTbLCioIH/view?usp=shari
 - Cup Russia 2023, ВТБ <br>
 https://drive.google.com/file/d/19HA0S1c3JQidtBtP8etNAuumlR6jZV_R/view?usp=sharing <br>
 - Чемпионат идей 2023, X5  <br>
-https://drive.google.com/file/d/1_O_ya4aMO1Y-NIgTq6VQOA98DU2gMm0E/view?usp=sharing <br>
+https://drive.google.com/file/d/1NqouwgV8OTXrRcdXCcTealA9AebGaVjL/view?usp=sharing <br>
 - Анализ оттока клиентов <br>
 https://drive.google.com/file/d/1_pZH6VXA13G4yHgOfc5P3fiPlm5Vq5BU/view?usp=sharing <br>
 - Рынок общепита Москвы <br>
