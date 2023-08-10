@@ -8,3 +8,5 @@ https://public.tableau.com/app/profile/klim5451/viz/good_table/Dashboard1?publis
 https://public.tableau.com/app/profile/klim5451/viz/-_16829552958750/Dashboard1?publish=yes <br>
 - Страны мира <br>
 https://public.tableau.com/app/profile/klim5451/viz/MyFirstViz_16753330124850/ScatterPlot?publish=yes <br>
+- Топ 500 фильмов <br>
+https://datalens.yandex.ru/qoau5vbl6g8yf-top-500-filmov <br>
